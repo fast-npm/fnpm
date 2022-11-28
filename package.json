@@ -1,5 +1,5 @@
 {
-  "name": "fnpm",
+  "name": "@92hackers/fnpm",
   "version": "0.1.0",
   "description": "Next generation Node.js packages manager",
   "main": "index.js",

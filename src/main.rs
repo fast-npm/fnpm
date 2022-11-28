@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world, fnpm!");
+    println!("Welcome to fnpm!");
 }
